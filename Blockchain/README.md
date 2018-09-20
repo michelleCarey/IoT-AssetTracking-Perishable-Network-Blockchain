@@ -2,6 +2,7 @@
 
 This section of the IoT Asset tracking workshop is really split into two parts. The first part, which we will call **Blockchain Part A**, follows the tutorial to deploy a [Hyperledger](https://www.hyperledger.org/) Fabric and Hyperledger Composer running in the [IBM Blockchain Starter Plan](https://www.ibm.com/blockchain/getting-started.html) in the IBM Cloud.
 
+
 **Note:** User could incur charges!
 
 * The IBM Blockchain Starter Plan is free for only 30 days through IBM Cloud credits and could change at any time. You may need to enter your credit card information to be able to deploy the Blockchain Starter Plan. There will be notes at the end of the code pattern to remove the instances to help eliminate the potential risk of charges.
